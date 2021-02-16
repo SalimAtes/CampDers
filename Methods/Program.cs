@@ -31,16 +31,18 @@ namespace Methods
                 Console.WriteLine(urun.StokAdedi);
                 Console.WriteLine("-----------------------");
             }
+
             //encapsulation
             Console.WriteLine("---------METOTLAR------");
             SepetManager sepetmanager = new SepetManager();
             sepetmanager.Ekle(urun1);
             sepetmanager.Ekle(urun2);
 
-            sepetmanager.Ekle2("armut", "yesil armut",12,10);
-            sepetmanager.Ekle2("karpuz","diyarbakır karpuzu",25,15);
-            sepetmanager.Ekle2("elma","yeşil elma",14,5);
-           
+            sepetmanager.Ekle2("armut", "yesil armut", 12, 10);
+            sepetmanager.Ekle2("karpuz", "diyarbakır karpuzu", 25, 15);
+            sepetmanager.Ekle2("elma", "yeşil elma", 14, 5);
+
+
         }
     }
 }

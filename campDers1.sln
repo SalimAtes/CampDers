@@ -15,9 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev2EticaretSitesi", "odev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{2C9FF897-82A8-4EA9-9050-EB46E711E2EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{75A6FE2F-18EB-45F6-B20C-54E48C42CE2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{75A6FE2F-18EB-45F6-B20C-54E48C42CE2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{08E7CEDD-248D-4553-9AFB-ADFE0516EE45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{08E7CEDD-248D-4553-9AFB-ADFE0516EE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutParameresi", "RefOutParameresi\RefOutParameresi.csproj", "{329E5E16-6561-4EFF-BF66-FF88B0ADE97F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankaMusteriEkleme", "BankaMusteriEkleme\BankaMusteriEkleme.csproj", "{0C78B805-6AF1-4044-ADFD-E9C85503551C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{08E7CEDD-248D-4553-9AFB-ADFE0516EE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08E7CEDD-248D-4553-9AFB-ADFE0516EE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08E7CEDD-248D-4553-9AFB-ADFE0516EE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329E5E16-6561-4EFF-BF66-FF88B0ADE97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E5E16-6561-4EFF-BF66-FF88B0ADE97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E5E16-6561-4EFF-BF66-FF88B0ADE97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E5E16-6561-4EFF-BF66-FF88B0ADE97F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C78B805-6AF1-4044-ADFD-E9C85503551C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C78B805-6AF1-4044-ADFD-E9C85503551C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C78B805-6AF1-4044-ADFD-E9C85503551C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C78B805-6AF1-4044-ADFD-E9C85503551C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
