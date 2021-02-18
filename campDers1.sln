@@ -25,9 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankaMusteriEkleme", "Banka
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{3C6A0950-536B-4EA7-A9D5-BED8A76B28AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{8CB4732D-5759-437C-B70D-5D507118B973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{8CB4732D-5759-437C-B70D-5D507118B973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericsİntro", "enerics\Genericsİntro.csproj", "{BE9D6908-5622-4F5A-8322-9F622604861E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genericsİntro", "enerics\Genericsİntro.csproj", "{BE9D6908-5622-4F5A-8322-9F622604861E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{E2A9AC3A-7642-430F-A0EE-1CC40E291D24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{BE9D6908-5622-4F5A-8322-9F622604861E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE9D6908-5622-4F5A-8322-9F622604861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE9D6908-5622-4F5A-8322-9F622604861E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A9AC3A-7642-430F-A0EE-1CC40E291D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A9AC3A-7642-430F-A0EE-1CC40E291D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A9AC3A-7642-430F-A0EE-1CC40E291D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A9AC3A-7642-430F-A0EE-1CC40E291D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
