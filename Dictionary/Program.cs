@@ -9,8 +9,11 @@ namespace Dictionary
             MyDictionary<int, string> Musteri = new MyDictionary<int, string>();
             Musteri.Add(156,"salim");
             Musteri.Add(154,"ömer ");
+            Musteri.Add(1547, "kadir");
 
             Musteri.Read();
+
+            
         }
     }
 }
