@@ -8,5 +8,5 @@ namespace OOOP3
     {
         void Hesapla();
         void BiseyYap();
-    }
+    }// interfaceleri birbirinin alternatifi olan ama kod icerikleri farklı olan durumlar için kullanırız.
 }

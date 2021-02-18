@@ -10,6 +10,7 @@ namespace OOOP3
             IKrediManager ihtiyacKredisi = new İhtiyacKredisi();
             IKrediManager konutKredisi = new KonutKredisi();
             IKrediManager tasitKredisi = new TasitKredisi();
+            
 
             BasvuruManager basvurumanager = new BasvuruManager();
 
